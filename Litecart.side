@@ -351,7 +351,7 @@
         ["xpath=//form[@id='sb_form']/input", "xpath:idRelative"],
         ["xpath=//input", "xpath:position"]
       ],
-      "value": "selenuim"
+      "value": "selenuim server"
     }, {
       "id": "6bb08b3a-2ec9-4afb-85bb-006155ed09dd",
       "comment": "",
